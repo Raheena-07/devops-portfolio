@@ -48,9 +48,9 @@ devops-portfolio/
 
 └── .github/
 
-&#x20;   └── workflows/
+ └── workflows/
 
-&#x20;       └── docker-build.yml
+└── docker-build.yml
 
 ```
 
@@ -102,7 +102,7 @@ docker run --name raheena-portfolio -p 8081:80 -d raheena-devops-portfolio
 
 
 
-Visit \[http://localhost:8081](http://localhost:8081).
+Visit \ http://localhost:8081/
 
 
 
